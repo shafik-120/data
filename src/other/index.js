@@ -137,5 +137,4 @@ fbDetails([
   'MaiShuPhotography',
   'simplyphotographyco',
   'heatherrichardsonphotographer',
-  'MaiShuPhotography'
-]);
+  'MaiShuPhotography']);
